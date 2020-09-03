@@ -7,7 +7,7 @@ In the following we explain:
 3. Clien side code
 
 ## The example problem to solve
-For the simplest example that we can cover our content with I assumed a list of events which have a name, a location, and number of attendant. We like to see a list of all events with their live number attendants. Number of attendants should update automatically without a refresh in the page required.
+For the simplest example that we can cover our content with I assumed a list of events which have a name, a location, and number of attendant. We like to see a list of all events with their live number attendants. Number of attendants should update automatically without refreshing the page.
 
 
 ## Server side code
